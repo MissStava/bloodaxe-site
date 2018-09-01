@@ -1,0 +1,19 @@
+title: Bloodaxe Vikings
+email: northamptonbloodaxevikings@gmail.com
+url: https://bloodaxevikings.com
+description: "The home of the Bloodaxe Vikings."
+
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+footer: Bloodaxe Vikings
+
+social:
+  - title: facebook
+    url: https://www.facebook.com/NorthamptonBloodaxeVikings/
+  - title: instagram
+    url: https://www.instagram.com/northamptonbloodaxevikings/
+
+markdown: kramdown
+permalink: pretty
